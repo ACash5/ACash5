@@ -9,7 +9,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🏢 Security Operations & Architecture Projects
-- **[zero-trust-framework-preview](https://github.com/ACash5/zero-trust-framework-preview)**
+- **[Zero-trust-framework-preview](https://github.com/ACash5/zero-trust-framework-preview)**
 
 ## 🚨 Threat Hunting and Security Operations
 

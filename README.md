@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/ACash5/Vulnerability-Management-Program_Implementation)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/ACash5/programmatic-vulnerability-remediations)**
 
 ## 🏢 Security Operations & Architecture Projects
 - **[Zero-trust-framework-preview](https://github.com/ACash5/zero-trust-framework-preview)**
